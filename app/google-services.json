@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "598069077413",
+    "firebase_url": "https://arbor-b1540.firebaseio.com",
+    "project_id": "arbor-b1540",
+    "storage_bucket": "arbor-b1540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598069077413:android:13966373452572f1",
+        "android_client_info": {
+          "package_name": "com.example.kenlin.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598069077413-ka13k1nl30s98crkeiqg1odkkqi3hs5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwU0QPvZ-omP7CBQlu5F6hVePQRovgFuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
